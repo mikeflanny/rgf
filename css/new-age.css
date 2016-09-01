@@ -443,6 +443,29 @@ footer ul li a.active {
   padding: 15px 45px;
   font-size: 11px;
 }
+.btn2-outline {
+  color: black;
+  border-color: black;
+  border: 1px solid;
+}
+.btn2-outline:hover,
+.btn2-outline:focus,
+.btn2-outline:active,
+.btn2-outline.active {
+  color: white;
+  background-color: #fdcc52;
+  border-color: #fdcc52;
+}
+.btn2 {
+  font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-radius: 300px;
+}
+.btn2-xl {
+  padding: 15px 45px;
+  font-size: 11px;
+}
 ::-moz-selection {
   color: white;
   text-shadow: none;
