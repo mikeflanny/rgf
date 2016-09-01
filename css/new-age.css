@@ -430,7 +430,7 @@ footer ul li a.active {
 .btn-outline:active,
 .btn-outline.active {
   color: white;
-  background-color: #008000;
+  background-color: #fdcc52;
   border-color: #fdcc52;
 }
 .btn {
@@ -444,17 +444,17 @@ footer ul li a.active {
   font-size: 11px;
 }
 .btn2-outline {
-  color: black;
-  border-color: black;
+  color: white;
+  border-color: white;
   border: 1px solid;
 }
 .btn2-outline:hover,
 .btn2-outline:focus,
 .btn2-outline:active,
 .btn2-outline.active {
-  color: black;
-  background-color: red;
-  border-color: red;
+  color: white;
+  background-color: #008000;
+  border-color: #008000;
 }
 .btn2 {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
