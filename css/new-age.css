@@ -444,8 +444,8 @@ footer ul li a.active {
   font-size: 11px;
 }
 .btn2-outline {
-  color: black;
-  border-color: black;
+  color: white;
+  border-color: #5283fd;
   border: 2px solid;
 }
 .btn2-outline:hover,
