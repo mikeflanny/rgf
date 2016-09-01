@@ -452,9 +452,9 @@ footer ul li a.active {
 .btn2-outline:focus,
 .btn2-outline:active,
 .btn2-outline.active {
-  color: white;
-  background-color: #fdcc52;
-  border-color: #fdcc52;
+  color: black;
+  background-color: red;
+  border-color: red;
 }
 .btn2 {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
