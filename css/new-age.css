@@ -347,6 +347,7 @@ section.cta .overlay {
 }
 section.contact {
   text-align: center;
+  background-color: blue;
 }
 section.contact h2 {
   margin-top: 0;
