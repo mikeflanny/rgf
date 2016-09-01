@@ -444,17 +444,17 @@ footer ul li a.active {
   font-size: 11px;
 }
 .btn2-outline {
-  color: white;
-  border-color: white;
-  border: 1px solid;
+  color: black;
+  border-color: black;
+  border: 2px solid;
 }
 .btn2-outline:hover,
 .btn2-outline:focus,
 .btn2-outline:active,
 .btn2-outline.active {
-  color: white;
-  background-color: #008000;
-  border-color: #008000;
+  color: black;
+  background-color: #5283fd;
+  border-color: #5283fd;
 }
 .btn2 {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
